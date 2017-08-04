@@ -1,5 +1,12 @@
 package aula06;
 
+/**
+ * Interface do Controle Remoto
+ * 
+ * @author francis
+ *
+ */
+
 public interface Controller {
 	public abstract void ligar();
 
