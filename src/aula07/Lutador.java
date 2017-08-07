@@ -88,7 +88,7 @@ public class Lutador {
 	/**
 	 * @return the nome
 	 */
-	private String getNome() {
+	String getNome() {
 		return nome;
 	}
 
@@ -164,7 +164,7 @@ public class Lutador {
 	/**
 	 * @return the categoria
 	 */
-	private String getCategoria() {
+	String getCategoria() {
 		return categoria;
 	}
 
