@@ -1,7 +1,7 @@
 package aula07;
 
 /**
- * Classe representando uma luta.
+ * Curso POO Java. Classe representando uma luta.
  * 
  * @author francis
  *

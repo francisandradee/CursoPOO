@@ -1,7 +1,7 @@
 package aula06;
 
 /**
- * Interface do Controle Remoto
+ * Curso POO Java. Interface do Controle Remoto.
  * 
  * @author francis
  *

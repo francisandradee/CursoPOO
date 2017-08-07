@@ -1,5 +1,12 @@
 package aula06;
 
+/**
+ * Curso POO Java. Classe que representa um Controle Remoto.
+ * 
+ * @author francis
+ *
+ */
+
 public class ControleRemoto implements Controller {
 	private int volume;
 	private boolean ligado;

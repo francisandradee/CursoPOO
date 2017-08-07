@@ -1,7 +1,7 @@
 package aula07;
 
 /**
- * Classe que representa um Lutador no Ultra Emoji Combat.
+ * Curso POO Java. Classe que representa um Lutador no Ultra Emoji Combat.
  * 
  * @author francis
  *

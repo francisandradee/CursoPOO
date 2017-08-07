@@ -1,5 +1,13 @@
 package aula07;
 
+/**
+ * Curso POO Java. Classe main do Ultra Emoji Combat.
+ * 
+ * 
+ * @author francis
+ *
+ */
+
 public class UltraEmojiCombat {
 
 	public static void main(String[] args) {
