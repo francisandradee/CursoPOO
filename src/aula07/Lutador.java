@@ -56,6 +56,7 @@ public class Lutador {
 	 * Uma apresentação mais light.
 	 */
 	public void status() {
+		System.out.println("-------------------------------");
 		System.out.println(getNome());
 		System.out.println("É um peso: " + getCategoria());
 		System.out.println(getVitorias() + " vitórias");
